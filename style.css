@@ -1,0 +1,11 @@
+.services,h3{background-color: rgb(176, 162, 162);
+width:200px;height:35px;animation:myweb;
+animation-duration: 2s;}
+.footer{width:200px;height:35px;background-color: rgb(96, 112, 112);
+animation:myweb;
+animation-duration: 2s;}
+
+@keyframes myweb {from{width:100px;color: gray;}
+to{width:200px;color: aqua;}
+    
+}
